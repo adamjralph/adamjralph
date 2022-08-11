@@ -17,27 +17,18 @@
   </a>
 </div>
 <h2 align="center">Hello there!</h2>
-<h2 align="center">I develop applications in Melbourne Australia</h2>
 
 ---
 
 ### :technologist: :About Me
 
 - :australia: Based in Melbourne
-- :hammer: Love building applications
+- :hammer: Love designing and building applications
 - :open_book: Teacher and communicatior
 - :man_cartwheeling: Movement enthusiast
 
-## HTML
+### :gear: :Tools and Technologies
 
-<img
-src="assets/html5-brands-30px.svg"
-alt="Alt text"
-title="HTML">
+#### Design
 
-## CSS
-
-<img
-src="assets/js-brands-30px.svg"
-alt="Alt text"
-title="CSS">
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">&nbsp;
