@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h2 align="center">Hello there!</h2>
+<h2 align="center">Hi, my name is Adam</h2>
 
 ---
 
@@ -29,6 +29,29 @@
 
 ### :gear: :Tools and Technologies
 
-#### Design
+#### Design = Figma
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" >&nbsp;
+
+#### Development
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
+<img src="" title="" alt="" width="40" height="40">&nbsp;
