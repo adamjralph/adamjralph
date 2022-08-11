@@ -16,8 +16,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h2 align="center">Hi, my name is Adam</h2>
+<h2 align="center">Hello there!</h2>
 <h2 align="center">I develop applications in Melbourne Australia</h2>
+
+---
+
+### :technologist:
 
 ## HTML
 
