@@ -21,7 +21,12 @@
 
 ---
 
-### :technologist:
+### :technologist: :About Me
+
+- :australia: Based in Melbourne
+- :hammer: Love building applications
+- :open_book: Teacher and communicatior
+- :man_cartwheeling: Movement enthusiast
 
 ## HTML
 
