@@ -52,3 +52,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="redhat" alt="redhat" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="debian" alt="debian" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg" title="devicons" alt="devicons" width="40" height="40">&nbsp;
