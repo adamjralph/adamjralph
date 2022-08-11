@@ -1,11 +1,11 @@
 <div align="center">
  
-  <img src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" width="300px"/>
+  <img src="https://media.giphy.com/media/gyZL85juekfnY4ycWq/giphy.gif"/>
 </div>
 
-## Hi!, I'm Adam. I live and develop applications in Melbourne Australia
+<br>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://linkedin.com/in/adam-ralph-333709242">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,10 +16,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-### I learn the most when I am making applications
-
-### Here are some of the tools I use...
+<h2 align="center">Hi, my name is Adam</h2>
+<h2 align="center">I develop applications in Melbourne Australia</h2>
 
 ## HTML
 
