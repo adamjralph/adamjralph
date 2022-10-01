@@ -53,3 +53,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="debian" alt="debian" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg" title="devicons" alt="devicons" width="40" height="40">&nbsp;
+
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamjralph&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
